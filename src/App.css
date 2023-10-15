@@ -1,0 +1,17 @@
+.btn-prev {
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  background: lightskyblue;
+  font-size: 16px;
+}
+.btn-next {
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  background: lightskyblue;
+  font-size: 16px;
+  margin-left: 10px;
+}
